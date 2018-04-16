@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="bed">Bed</string>
+    <string name="buzzer">Buzzer</string>
+    <string name="door_window">Door Window</string>
+    <string name="feedback">Feedback</string>
+    <string name="fire">Fire</string>
+    <string name="lantern">Lantern</string>
+    <string name="temperature">Temperature</string>
+    <string name="thief">Theft Mode</string>
+    <string name="window">Window</string>
+</resources>
